@@ -3,3 +3,29 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+html {
+  background-color: #3B4016;
+  font-family: sans-serif;
+  color: #D9D5A7;
+  font-size: 20px;
+}
+  
+h1 {
+  font-family: "Slackside One", cursive;
+  font-weight: 2.5rem;
+  color: #CEDEF2;
+}
+
+h2 {
+  font-family: "Slackside One", cursive;
+  font-weight: 1.5rem;
+  color: #A69F41;
+}
+
+p {
+  font-family: "Cormorant", serif;
+  font-weight: 1rem;
+  line-height: 1.5px;
+  margin-bottom: 30px;
+}
