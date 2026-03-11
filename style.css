@@ -37,9 +37,9 @@ p {
 }
 
 .container {
-  border-radius: 30px;
+  border-radius: 50px;
   width: 300px;
   height: auto;
-  display: block;
-  margin: auto;
+  display: flex;
+  justify-content: center;
 }
