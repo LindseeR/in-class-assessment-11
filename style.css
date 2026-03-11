@@ -5,7 +5,7 @@
 }
 
 html {
-  background-color: #3B4016;
+  background-color: #395953;
   font-family: sans-serif;
   color: #D9D5A7;
   font-size: 20px;
@@ -14,12 +14,14 @@ html {
 h1 {
   font-family: "Slackside One", cursive;
   font-weight: 2.5rem;
-  color: #CEDEF2;
+  text-align: center;
+  color: #DCEEF2;
 }
 
 h2 {
   font-family: "Slackside One", cursive;
   font-weight: 1.5rem;
+  text-align: center;
   color: #A69F41;
 }
 
@@ -27,5 +29,5 @@ p {
   font-family: "Cormorant", serif;
   font-weight: 1rem;
   line-height: 1.5;
-  margin-bottom: 30px;
+  margin: 10px 20px 10px 10px;
 }
