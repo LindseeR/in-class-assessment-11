@@ -13,13 +13,13 @@ html {
   
 h1 {
   font-family: "Slackside One", cursive;
-  font-weight: 3.5rem;
+  font-weight: 5rem;
   color: #B3E7F2;
 }
 
 h2 {
   font-family: "Slackside One", cursive;
-  font-weight: 2rem;
+  font-weight: 3rem;
   font-style: uppercase;
   color: #A8A755;
 }
@@ -36,9 +36,11 @@ p {
   color: #DCEEF2;
 }
 
-.container {
+.container, img {
   border-radius: 50px;
-  width: 50%;
+  width: 900px;
   height: auto;
-  margin: 20px 35px 20px 35px;
+  margin-left: auto;
+  margin-right: auto;
 }
+
