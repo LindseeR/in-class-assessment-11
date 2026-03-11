@@ -15,7 +15,7 @@ h1 {
   font-family: "Slackside One", cursive;
   font-weight: 2.5rem;
   text-align: center;
-  color: #DCEEF2;
+  color: #4EA6A6;
 }
 
 h2 {
@@ -31,5 +31,11 @@ p {
   font-weight: 1rem;
   line-height: 1.5;
   text-align: center;
-  margin: 35px 25px 35px 35px;
+  margin: 20px 35px 20px 35px;
 }
+
+.message {
+  font-style: italic;
+  color: #4EA6A6;
+}
+  
