@@ -5,13 +5,9 @@
 }
 
 body {
-  /* background-color: #395953; */
+  background-color: #395953;
   color: #DCEEF2;
   font-size: 20px;
-  background-image: linear-gradient(rgba(0, 141, 92, 0.15), rgba(31, 89, 88, 0.9)), url("https://media.istockphoto.com/id/1164716131/photo/water-surface-with-autumn-leaves-and-reflections.jpg?s=612x612&w=0&k=20&c=KQixlc9EP4MyGKQuTSRtyFHNDP0SoWznLTBckJTxo7s=);
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
 }
   
 h1 {
