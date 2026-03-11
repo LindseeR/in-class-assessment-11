@@ -8,19 +8,18 @@ html {
   background-color: #395953;
   color: #F2EDD0;
   font-size: 20px;
+  text-align: center;
 }
   
 h1 {
   font-family: "Slackside One", cursive;
   font-weight: 2.5rem;
-  text-align: center;
   color: #B3E7F2;
 }
 
 h2 {
   font-family: "Slackside One", cursive;
   font-weight: 1.5rem;
-  text-align: center;
   font-style: uppercase;
   color: #A8A755;
 }
@@ -29,7 +28,6 @@ p {
   font-family: "Cormorant", serif;
   font-weight: 1rem;
   line-height: 1.5;
-  text-align: center;
   margin: 20px 35px 20px 35px;
 }
 
